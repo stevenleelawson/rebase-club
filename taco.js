@@ -1,4 +1,5 @@
 export const bands = [
   { name: 'Cheeseburger Ranchers'},
-  { name: 'Stevie Wunderba'},
+  { name: 'Stevie Wunderbar'},
+  { name: 'cheese'},
 ];
